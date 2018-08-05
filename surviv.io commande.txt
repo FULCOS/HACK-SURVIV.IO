@@ -1,0 +1,10 @@
+Mise à jour: Vous pouvez tirer sur la touche espace. 
+Mise à jour: butin automatique et ouverture automatique. 
+Mise à jour: Réglage du rayon de zoom par Left shift+ Mouse wheel
+Mise à jour: menu du jeu ajouté. Appuyez sur la Ztouche pour activer la triche et Bafficher le menu. 
+Mise à jour: Changement rapide d'armes, cliquez simplement sur le bouton droit de la souris. 
+Mise à jour: Emotes disponibles sur la molette de la souris (au lieu du bouton droit de la souris). 
+Mise à jour: Si vous avez besoin de désactiver temporairement le ciblage automatique, maintenez simplement la Left shifttouche enfoncée . 
+Mise à jour: Pour jeter le butin, maintenez la Left shifttouche puis cliquez avec le bouton droit de la souris sur le butin. 
+Mise à jour: Désormais, la visée automatique visera un ennemi, le plus proche du pointeur de la souris n ° 19 .
+Mise à jour: Extension avec mise à jour automatique disponible! Maintenant, vous n'avez plus besoin de vérifier les mises à jour manuellement. Installez simplement 
